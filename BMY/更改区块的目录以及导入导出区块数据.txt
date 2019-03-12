@@ -1,0 +1,4 @@
+（1）更改区块的目录：
+cmd中键入：mklink/j "C:Users\ethereum\AppData\Roaming|Ethereum" "你想存放的目录地址"
+（2）导出节点的区块链数据：命令行geth --testnet export filename （testnet是你自己的网络的名称，一般为testnet，我的是rinkeby）
+（3）导入数据到新的节点：命令行geth --testnet import filename

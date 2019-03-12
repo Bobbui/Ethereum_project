@@ -1,0 +1,2 @@
+命令行输入：geth attach ipc:\\.\pipe\geth.ipc 连接到geth 
+输入miner.start()开始挖矿（必须等所有区块下载完成才能开始挖矿，大约6G）

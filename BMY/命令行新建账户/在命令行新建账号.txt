@@ -1,0 +1,2 @@
+命令行：geth --testnet account new（我的私有网络名称是rinkeby，一般是testnet）
+然后设置密码，会获得账户名
